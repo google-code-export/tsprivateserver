@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+TS Private Server adalah server yang bukan official agar dapat dimaini game TS Online. TS Online adalah game mengenai sejarah tiga kerjaan di cina masa peperangan.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
